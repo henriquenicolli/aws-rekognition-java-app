@@ -1,4 +1,4 @@
-# AWS_application_sample
+# AWS rekogtion sample
 
 Henrique Nicolli /
 Rafael Sampy /
@@ -6,4 +6,4 @@ Luiz Fernando /
 
 
 Funcao lambda em java.
-Este codigo gera um log de um arquivo inserido na S3 e grava no DynamoDB.
+Este codigo pega elementos de uma imagem inserida em um bucket s3 e grava no DynamoDB
